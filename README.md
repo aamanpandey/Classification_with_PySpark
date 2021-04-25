@@ -19,13 +19,13 @@ Dataset: Pima Indians Diabetes Database
 
 - Logistic Regression
 
-- Gradient-boosted tree classifier
+- Gradient-Boosted Tree Classifier
 
 - Linear Support Vector Machine
 
 - Naive Bayes
 
-- Factorization machines classifier
+- Factorization Machines Classifier
 
 - Decision Tree classification
 
